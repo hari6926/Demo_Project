@@ -7,5 +7,6 @@ class Integers {
     for (c = 1; c <= 10; c++) {
       System.out.println(c);
     }
-  }
 }
+}
+
